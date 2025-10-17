@@ -1,0 +1,9 @@
+
+# requirements
+flask
+ultralytics
+pillow
+opencv-python
+numpy
+matplotlib
+tqdm
