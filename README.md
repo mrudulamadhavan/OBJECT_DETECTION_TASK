@@ -15,6 +15,7 @@ The model detects objects (e.g., “chair”) in uploaded images or test images 
 ---
 
 ## 📁 Folder Structure
+
 object_detection/
 ├── app.py
 ├── detect.py
