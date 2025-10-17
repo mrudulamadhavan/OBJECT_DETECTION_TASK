@@ -16,12 +16,6 @@ The model detects objects (e.g., “chair”) in uploaded images or test images 
 
 ## 📁 Folder Structure
 
-yolov8_flask/
-├── app.py                     # Flask API exposing /detect endpoint
-├── detect.py                  # YOLOv8 inference logic
-├── requirements.txt           # Required Python packages
-├── README.md                  # Documentation (project overview)
-└── data_files/
-    ├── test_images/           # Input test images (e.g., chair1.jpg, chair2.jpg)
-    └── results/               # Output images with bounding boxes & labels
+<img width="317" height="327" alt="image" src="https://github.com/user-attachments/assets/e632a2e7-f47b-421a-a2b4-253e9046b7df" />
+
 
